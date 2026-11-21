@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="codecapture_sessions" path="CodeCapture/" />
+    <external-files-path name="codecapture_external" path="CodeCapture/" />
+    <cache-path name="codecapture_exports" path="exports/" />
+</paths>
